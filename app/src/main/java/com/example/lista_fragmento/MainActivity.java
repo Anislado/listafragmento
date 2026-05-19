@@ -1,4 +1,4 @@
-//González
+//González Anislado Mauricio Martín 
 
 package com.example.lista_fragmento;
 
